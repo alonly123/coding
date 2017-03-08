@@ -1,9 +1,9 @@
 package com.alonly.algorithm.sort;
 
 /**
- * @author luoct
+ * @author lct
  * @version 1.0.0
- * @mail luoct@jingoal.com
+ * @mail luochunteng@163.com
  * @date 2017/3/8 0008 下午 15:17
  * @Description
  */

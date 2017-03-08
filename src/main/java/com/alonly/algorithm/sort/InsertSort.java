@@ -1,9 +1,9 @@
 package com.alonly.algorithm.sort;
 
 /**
- * @author luoct
+ * @author lct
  * @version 1.0.0
- * @mail luoct@jingoal.com
+ * @mail luochunteng@163.com
  * @date 2017/3/8 0008 下午 16:01
  * @Description 每步将一个待排序的记录，按其顺序码大小插入到前面已经排序的字序列的合适位置（从后向前找到合适位置后），直到全部插入排序完为止.时间复杂度：O（n^2）.
  */
